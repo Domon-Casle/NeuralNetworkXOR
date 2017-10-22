@@ -1,0 +1,13 @@
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+c:\users\philip\documents\visual studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
