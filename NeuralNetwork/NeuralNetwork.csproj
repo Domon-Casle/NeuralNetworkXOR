@@ -48,6 +48,8 @@
     <Compile Include="Classes\Layer.cs" />
     <Compile Include="Classes\NeuralNetwork.cs" />
     <Compile Include="Consts\CryptoRandom.cs" />
+    <Compile Include="Learning\XOR\XORData.cs" />
+    <Compile Include="Learning\XOR\XORMain.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

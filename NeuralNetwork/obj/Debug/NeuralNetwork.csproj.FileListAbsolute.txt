@@ -11,3 +11,9 @@ C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\Neura
 C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
 C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
 C:\Users\domon\source\repos\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+D:\JavaScriptClasses\MyProjects\NeuralNetworkXOR\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
