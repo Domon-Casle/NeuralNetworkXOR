@@ -1,5 +1,6 @@
 ﻿using System;
 using NeuralNetwork.Consts;
+using System.Threading.Tasks;
 
 namespace NeuralNetwork.Classes
 {
@@ -40,9 +41,16 @@ namespace NeuralNetwork.Classes
             // Return value
             double[] ffOutput = new double[numberOfOutputs];
 
-            // Run over all our layers neurons 
+            // Run over all our layers neurons
+            //Parallel.For(0, numberOfOutputs, index =>
+            //{
+            //    ffOutput[index] = neurons[index].FeedForward(inputs);
+            //});
+
             for (int i = 0; i < numberOfOutputs; i++)
+            {
                 ffOutput[i] = neurons[i].FeedForward(inputs);
+            }
 
             return ffOutput;
         }

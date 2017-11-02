@@ -21,7 +21,7 @@ namespace NeuralNetwork.Learning.XOR
         /// </summary>
         public XORMain ()
         {
-            layers = new int[] { 3, 25, 25, 1 };
+            layers = new int[] { 3, 60, 60, 1 };
             myNN = new Classes.NeuralNetwork(layers);
             this.BuildData();
         }
@@ -54,7 +54,7 @@ namespace NeuralNetwork.Learning.XOR
             }
         }
 
-        public void NNResult()
+        public void NNResult(DateTime startDate, DateTime endDate)
         {
             double[] nnOutput;
             string outputString;
@@ -66,7 +66,9 @@ namespace NeuralNetwork.Learning.XOR
                 Console.WriteLine(outputString);
             }
 
-            Console.Write("Press any key to continue...");
+            Console.WriteLine("Start Date: {0}", startDate);
+            Console.WriteLine("End Date: {0}", endDate);
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
 
